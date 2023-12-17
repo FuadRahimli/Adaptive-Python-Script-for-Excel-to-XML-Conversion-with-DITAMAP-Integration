@@ -13,4 +13,4 @@ The implementation leverages various libraries, including "pandas," "numpy," "os
 As a result, 3059 XML files and 1 DITAMAP were successfully generated. I have rigorously tested the script to confirm its proper execution in Visual Studio and its seamless functionality within the Oxygen XML Editor, affirming that all specified requirements have been met.
 
 Achievements: 
-Thanks to this task, I have improved a range of skills including Python Programming, Data Processing, XML Handling, File Operations, Libraries Integration, Problem Solving, Testing, Documentation.
+Thanks to this task, I have improved a range of skills including Python Programming, Data Processing, XML Handling, File Operations, Libraries Integration, Problem Solving, Testing, Documentation, and Automation.
